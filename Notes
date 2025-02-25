@@ -1,0 +1,3 @@
+The logo in the header already acts as a link to the homepage.
+
+Additionally, I implemented a "back-to-top" button (arrow icon) to enhance user experience by allowing them to quickly return to the top of the page. This makes it easier for users to click on the logo to navigate back to the homepage if they prefer.

@@ -1,0 +1,64 @@
+/* Headers */
+h1 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--dark);
+}
+
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2rem;
+  color: var(--dark);
+}
+
+
+/* Paragraph Text */
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+p.bold {
+  font-weight: bold;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.underline {
+  text-decoration: underline;
+}
+
+/* Links */
+a {
+  font-weight: bold;
+  font-size: 1rem;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+/* Quotes */
+blockquote {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    background-color: var(--light);
+    border-left: 4px solid var(--primary-color);
+    padding: 10px;
+    margin: 20px 0;
+}
+
