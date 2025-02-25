@@ -5,14 +5,24 @@ Welcome to my personal blog website! This project showcases my skills in **HTML*
 ---
 
 ## 📋 Table of Contents
+- [🎥 Demo Video](#demo-video)
 - [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
 - [🚀 Setup Instructions](#setup-instructions)
-- [🎥 Demo Video](#demo-video)
 - [💡 Usage](#usage)
 - [🤝 Contributing](#contributing)
 - [🙏 Acknowledgments](#acknowledgments)
 - [📜 License](#license)
+
+---
+
+## 🎥 Demo Video
+
+Here’s a quick demo of the website in action:
+
+[![Demo Video](/assets/img/demo-thumbnail.jpg)](https://drive.google.com/file/d/1Mv38U8vXyMATIevBItQzBZHNy7R8vMwa/view?usp=drive_link)
+
+(Click the image above to watch the demo video on Google Drive.)
 
 ---
 
@@ -51,17 +61,6 @@ cd haneen-personal-blog-website
 ### Open the Project
 - Open the `index.html` file in your browser to view the homepage.
 - Open the `blog-post.html` file to view the example blog post.
-
----
-
-## 🎥 Demo Video
-
-Here’s a quick demo of the website in action:
-
-[![Demo Video](/assets/img/demo-thumbnail.jpg)](https://drive.google.com/file/d/1Mv38U8vXyMATIevBItQzBZHNy7R8vMwa/view?usp=drive_link)
-
-(Click the image above to watch the demo video on Google Drive.)
-
 
 ---
 
